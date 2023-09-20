@@ -45,7 +45,7 @@ Number of rows 339,562 in table of Covid Vaccinations
 
 ## Datewise global total cases, deaths & deathrate  
 
-Total number of daily cases & deaths across the globe. And also death vs case %. 
+Datewise addition of total cases & deaths across the globe. And also death vs case %. 
 
 ![9](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/b96f2840-4be4-453f-8c8b-9ed41d183699)
 
@@ -56,7 +56,7 @@ Total number of daily cases & deaths across the globe. And also death vs case %.
 
 
 
-## C ountrywise Rolling People Vaccinated 
+## Countrywise Rolling People Vaccinated 
 
 Total number of vaccinated people added each day/ datewise in a particular country 
 
