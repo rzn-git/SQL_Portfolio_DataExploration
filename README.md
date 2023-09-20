@@ -12,16 +12,39 @@
 ![3](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/4b1c1f66-81fb-49b2-8106-a9667df49d07)
 
 
-## total case vs total deaths in %
+## total case vs total deaths %
 
 ![4](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/85cd97c1-701a-43d4-94ce-131d8ebbb809)
 
+## total case vs total deaths in Canada %
+
+![5](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/575272b3-2dae-4d60-a9cb-830beea7e051)
 
 
+## total case vs total population %
+
+![6](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/92e03042-88fc-4d8e-a21d-29cc6d02e0b9)
 
 
+## Countries with highest infection rate %
+
+![7](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/8dd6a8c2-7413-4025-a15a-327cb2cefd52)
 
 
+## Countries with highest death 
+
+
+![8](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/b06ecf56-0787-4637-b9a3-7595be2d1337)
+
+
+## Global number datewise 
+
+![9](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/b96f2840-4be4-453f-8c8b-9ed41d183699)
+
+
+## Global number total
+
+![10](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/908ebc36-2f0b-423f-becf-c78957425523)
 
 
 
