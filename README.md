@@ -43,14 +43,14 @@ Number of rows 339,562 in table of Covid Vaccinations
 ![8](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/b06ecf56-0787-4637-b9a3-7595be2d1337)
 
 
-## Global number datewise 
+## Global total number datewise 
 
 Total number of daily cases & deaths across the globe. And also death vs case %. 
 
 ![9](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/b96f2840-4be4-453f-8c8b-9ed41d183699)
 
 
-## Global number total
+## Global total number: total cases, total deaths and death % 
 
 ![10](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/908ebc36-2f0b-423f-becf-c78957425523)
 
@@ -62,6 +62,7 @@ Total number of vaccinated people added each day/ datewise in a particular count
 ![11](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/cb933aaf-fde9-417b-b23b-dd89a7b0f179)
 
 
+## Total population vs Rolling People Vaccinated
 ![12](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/218548fc-e11b-456f-9566-a2cea2fa2a53)
 
 
