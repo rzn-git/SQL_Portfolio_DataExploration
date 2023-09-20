@@ -54,8 +54,8 @@
 
 ![12](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/218548fc-e11b-456f-9566-a2cea2fa2a53)
 
-## Creating view to store data for visualization
 
+## Creating view to store data for visualization
 
 ![13](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/1ebf2565-1f2f-4e66-b570-badc5904695e)
 
