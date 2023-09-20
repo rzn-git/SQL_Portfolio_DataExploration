@@ -1,4 +1,8 @@
-# SQL_Portfolio_DataExploration
+# Data Exploration of COVID-19 using SQL
+
+Number of rows 339,462
+
+
 ## Initial Data of Covid Deaths
 
 ![1](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/5432dbcd-869a-4a0c-bdb1-6bf45f73c117)
@@ -39,6 +43,8 @@
 
 ## Global number datewise 
 
+Total number of daily cases & deaths across the globe. And also death vs case %. 
+
 ![9](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/b96f2840-4be4-453f-8c8b-9ed41d183699)
 
 
@@ -47,7 +53,9 @@
 ![10](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/908ebc36-2f0b-423f-becf-c78957425523)
 
 
-## Total population vs vaccinations 
+## Rolling People Vaccinated countrywise
+
+Total number of vaccinated people added each day/ datewise in a particular country 
 
 ![11](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/cb933aaf-fde9-417b-b23b-dd89a7b0f179)
 
