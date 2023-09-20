@@ -55,15 +55,18 @@ Total number of daily cases & deaths across the globe. And also death vs case %.
 ![10](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/908ebc36-2f0b-423f-becf-c78957425523)
 
 
-## Rolling People Vaccinated countrywise
+
+## C ountrywise Rolling People Vaccinated 
 
 Total number of vaccinated people added each day/ datewise in a particular country 
 
-![11](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/cb933aaf-fde9-417b-b23b-dd89a7b0f179)
+![16](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/227b7726-8765-4b08-8b8e-96cf555b79d7)
 
 
-## Total population vs Rolling People Vaccinated
-![12](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/218548fc-e11b-456f-9566-a2cea2fa2a53)
+
+## Total population vs Rolling People Vaccinated %
+
+![17](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/bb16c59a-96cd-4d37-bca3-c1d0b19c9bd9)
 
 
 ## Creating view to store data for visualization
