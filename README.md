@@ -1,8 +1,9 @@
-# Data Exploration of COVID-19 using SQL
+# Coronavirus (COVID-19) Data Exploration using SQL
 
-Number of rows 339,462 in table of Covid Deaths
+### Data set: https://ourworldindata.org/covid-deaths
 
-Number of rows 339,562 in table of Covid Vaccinations
+#### Number of rows 339,462 in table of Covid Deaths
+#### Number of rows 339,562 in table of Covid Vaccinations
 
 
 ## Initial Data of Covid Deaths
