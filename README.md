@@ -1,6 +1,7 @@
 # Data Exploration of COVID-19 using SQL
 
-Number of rows 339,462
+Number of rows 339,462 in table of Covid Deaths
+Number of rows 339,562 in table of Covid Vaccinations
 
 
 ## Initial Data of Covid Deaths
