@@ -2,8 +2,15 @@
 
 ### Data set: https://ourworldindata.org/covid-deaths
 
+
+![coronavirus-data-explorer](https://github.com/rzn-git/SQL_Portfolio_DataExploration/assets/64501583/e59e007c-cd94-412f-947e-43e5016db4cf)
+
+
+
 #### Number of rows 339,462 in table of Covid Deaths
 #### Number of rows 339,562 in table of Covid Vaccinations
+
+
 
 
 ## Initial Data of Covid Deaths
